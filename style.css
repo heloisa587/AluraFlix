@@ -28,3 +28,12 @@ section {
 p{
   font-size: 20px;
 }
+
+
+img {
+    height:200px;
+}
+
+.categoria-video{
+  display: flex;
+}
